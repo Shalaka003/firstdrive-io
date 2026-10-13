@@ -1,5 +1,7 @@
 # FirstDrive.io
 
+**[Open the free simulator](https://shalaka003.github.io/firstdrive-io/)**
+
 **Practice the decisions you make from the driver's seat.** FirstDrive.io is a free, browser-based California driving practice simulator. You steer through short, fictional San Francisco-inspired routes while an instructor gives simple directions such as “turn right at the next intersection.” You decide when to signal, where to look, how to respond to signs and traffic, and when to stop. Short multiple-choice checkpoints explain important decisions without taking away the driving practice.
 
 This is an independent learning tool, **not an official California DMV test**, a copy of a field-office route, or a substitute for lessons and the [California Driver's Handbook](https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/).
